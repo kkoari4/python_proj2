@@ -1,5 +1,6 @@
-*.bat
-*.exe
+# 커밋 안하려는 파일이름 예시 (같은 폴더 안에 있는 것만 가능)
+*.bat	# 배치파일도 커밋 안할거임
+*.exe	# exe파일도 커밋 안할거임
 
 # Created by https://www.toptal.com/developers/gitignore/api/windows,visualstudiocode,django
 # Edit at https://www.toptal.com/developers/gitignore?templates=windows,visualstudiocode,django
